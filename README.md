@@ -1,2 +1,3 @@
 # surgery_drill
 Design and manufacturing process of drill for set parameters to prevent thermal osteonecrosis
+I am currently working together with a PhD. student who was making some research on implant failure by thermal osteonecrosis. According to some papers, the condition at which thermal osteonecrosis happens is at 37 degrees Celsius maintained for 1 minute. The project and manufacture of the drill is an attempt to reduce the 8% of failure by thermal osteonecrosis. The final product will have IR Sensors and a load cell, that altogether with a Raspberry Pie will shut down the drill before the conditions of thermal osteonecrosis are met. 
